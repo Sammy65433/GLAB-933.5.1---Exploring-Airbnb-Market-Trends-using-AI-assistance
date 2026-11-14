@@ -1,5 +1,7 @@
 # GLAB 933.5.1 - Exploring Airbnb Market Trends (NYC)
 
+Repository: https://github.com/Sammy65433/GLAB-933.5.1---Exploring-Airbnb-Market-Trends-using-AI-assistance
+
 Data analysis of 2019 NYC Airbnb listings combining three source files
 (`airbnb_price.csv`, `airbnb_room_type.xlsx`, `airbnb_last_review.tsv`).
 
